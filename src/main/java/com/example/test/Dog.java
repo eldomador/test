@@ -16,11 +16,8 @@ public class Dog
     private Long id;
     
     private String name;
-    
-    public Dog(Integer i, String doggo)
-    {
-    }
-    
+
+    public Dog(){}
     public Long getId()
     {
         return id;
